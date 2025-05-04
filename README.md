@@ -49,7 +49,7 @@ This dataset includes customer and vehicle details for each sale:
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/<your-username>/car-sales-analytics.git
+   git clone https://github.com/Raoina/powerbi-dashboard
 
 ## 🚀 Getting Started
 
@@ -72,5 +72,5 @@ This dataset includes customer and vehicle details for each sale:
   - `car_sales_data.csv`  
 - `images/`                  Icons and screenshots  
 - `README.md`                Project overview and setup  
-- `.gitignore`               Files to ignore  
+
 
