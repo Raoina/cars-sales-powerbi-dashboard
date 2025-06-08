@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/cover.png" width="100%" />
+  <img src="images/cover2.jpg" width="60%"/>
 </p>
 
 # 🚗 Car Sales Analytics Dashboard
@@ -113,7 +113,27 @@ Based on the dashboard insights, here are some recommendations:
 - 🎨 **Color Trends**: Leverage insights about popular colors for inventory planning.
 
 ---
+## Dashboard
 
+You can check the car sales dashboard here:  
+[Car Sales Dashboard](https://app.powerbi.com/groups/me/reports/338ba940-9c64-4620-9372-1c775815e929/5cf86ee10410e8496212?experience=power-bi)
+
+---
+
+## Team Members
+
+- [*Rowaina*](https://github.com/Raoina) 
+- [*Mohy*](https://github.com/iDourgham)
+- [*Seif*](https://github.com/OPCoderman) 
+- [*Rania*](https://github.com/RRGrania)
+
+---
+
+## Acknowledgments
+
+Special thanks to the amazing team who worked hard on this project and made it possible. 🙌
+
+---
 ## 📬 Contact
 
 Made with ❤️ by [Rowaina Reda](https://www.linkedin.com/in/rowaina-reda)
